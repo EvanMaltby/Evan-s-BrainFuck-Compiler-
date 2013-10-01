@@ -1,4 +1,4 @@
-./main
+./CppCompiler
 echo "Compiling..."
 g++ output.cpp -o code
 echo "Deleting Output..."
