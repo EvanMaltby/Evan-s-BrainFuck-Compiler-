@@ -4,7 +4,9 @@ Evan-s-BrainFuck-Compiler-
 A C++ program that turns brainfuck code into C++ and then compiles it and deletes the C++ source
  
 To compile the actual C++ code from source:
+
 g++ Compiler.cpp -o CppCompiler
+ 
  
 To compile a brainfuck program:
 
