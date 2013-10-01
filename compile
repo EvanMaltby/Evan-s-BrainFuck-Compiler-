@@ -1,0 +1,5 @@
+./main
+echo "Compiling..."
+g++ output.cpp -o code
+echo "Deleting Output..."
+rm output.cpp
